@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Jason Alexander
 
+Software Engineering student @ Bina Nusantara University. Passionate about mobile & web development and scalable backend systems, with a high interest on Quality Assurance.
 <!--
 **Jason-Alexander22/Jason-Alexander22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
