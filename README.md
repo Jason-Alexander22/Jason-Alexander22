@@ -8,6 +8,17 @@ Software Engineering student @ Bina Nusantara University. Passionate about mobil
 - Skilled at translating complex processes into clear, structured technical documentation.
 - A collaborative team player with excellent communication skills built through various leadership and volunteer experiences.
 
+### Skills:
+- Programming Language: C, Java, Python, JavaScript, Dart, HTML, CSS, SQL (MySQL)
+- Frameworks & Libraries: Node.js, Next.js,  NestJS, Flutter.
+- QA & Testing: Manual Testing, Bug Identification, Technical Documentation, Selenium (Basic).
+- Tools & Platforms: Git/GitHub, Figma, Notion, VSCode, Microsoft Office
+
+### Lets Connect
+- Email: jasonalexander221106@gmail.com
+- Linkedin: https://www.linkedin.com/in/jason-alexander-wtp22/
+- Instagram: https://www.instagram.com/jsonalxndr/
+
 
 
 
