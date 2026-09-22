@@ -15,9 +15,9 @@ Software Engineering student @ Bina Nusantara University. Passionate about mobil
 - Tools & Platforms: Git/GitHub, Figma, Notion, VSCode, Microsoft Office
 
 ### Lets Connect
-- Email: jasonalexander221106@gmail.com
-- Linkedin: https://www.linkedin.com/in/jason-alexander-wtp22/
-- Instagram: https://www.instagram.com/jsonalxndr/
+- **Email:** [jasonalexander221106@gmail.com](mailto:jasonalexander221106@gmail.com)
+- **Linkedin:** [Jason Alexander](https://www.linkedin.com/in/jason-alexander-wtp22/)
+- **Instagram:** [@jsonalxndr](https://www.instagram.com/jsonalxndr/)
 
 
 
